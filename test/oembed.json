@@ -1,0 +1,15 @@
+{
+ "html": "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/u8Kt7fRa2Wc?feature=oembed\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+ "width": 480,
+ "thumbnail_height": 360,
+ "provider_url": "https://www.youtube.com/",
+ "thumbnail_width": 480,
+ "version": "1.0",
+ "type": "video",
+ "title": "The Expert: Progress Meeting (Short Comedy Sketch)",
+ "height": 270,
+ "author_url": "https://www.youtube.com/user/laurisbeinerts",
+ "provider_name": "YouTube",
+ "thumbnail_url": "https://i.ytimg.com/vi/u8Kt7fRa2Wc/hqdefault.jpg",
+ "author_name": "Lauris Beinerts"
+}
